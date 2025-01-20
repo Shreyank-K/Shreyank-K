@@ -1,4 +1,4 @@
-## Hi, I'm Shreyank!
+### Hi, I'm Shreyank!
 
 Check out my projects below, and make sure to read the blogs on my website!
 https://www.shreyankk.com/blog
