@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Shreyank!
+
+Check out my projects below, and make sure to read the blogs on my website!
+https://www.shreyankk.com/blog
 
 <!--
 **Shreyank-K/Shreyank-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
