@@ -1,6 +1,6 @@
 # Hi, I'm Shreyank! 👾
 
-## Check out some of my projects below, and be sure to read the blogs on my website!
+Check out some of my projects below, and be sure to read the blogs on my website!
 https://www.shreyankk.com/blog
 
 <!--
